@@ -4,7 +4,7 @@ public class A1010 {
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         int i = s.nextInt();
-        System.err.println(i);
+        System.out.println(i);
 
         // byte a = in.nextByte(); 		
 		// short b = in.nextShort(); 		
