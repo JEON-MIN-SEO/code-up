@@ -21,5 +21,4 @@ public class A2021{
             return "erroe";
         }
     }
-    //Day4
 }

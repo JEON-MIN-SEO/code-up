@@ -15,8 +15,10 @@ public class A1020 {
 
         //12/29 (https://colossus-java-practice.tistory.com/32)
         //Integer.parseInt => String => Int変換
-
+        
         //StringTokenizer ブログ
         //https://reakwon.tistory.com/90
+
+        //3+4Day
     }
 }
