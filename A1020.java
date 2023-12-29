@@ -12,5 +12,11 @@ public class A1020 {
 
         //勉強が必要なメソッド
         //Integer.parseInt , StringTokenizer
+
+        //12/29 (https://colossus-java-practice.tistory.com/32)
+        //Integer.parseInt => String => Int変換
+
+        //StringTokenizer ブログ
+        //https://reakwon.tistory.com/90
     }
 }
