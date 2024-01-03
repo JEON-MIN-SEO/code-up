@@ -8,10 +8,11 @@ public class A2025 {
         char[] num = str.toCharArray();
 
         for(int i = 0; i < num.length; i++){
-            System.out.println(num[i]);
-            for(int j = num.length -1; j>i; j--){
+            System.out.print("["+num[i]);
+            for(int j = 0; j<num.length-i-1; j++){
                 System.out.print("0");
             }
+            System.out.println("]");
         }
     }
 }
