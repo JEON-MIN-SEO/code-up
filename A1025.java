@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class A2025 {
+public class A1025 {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
         String str = scanner.nextLine();

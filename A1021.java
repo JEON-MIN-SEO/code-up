@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class A2021{
+public class A1021{
     public static void main(String[] args) {
         Scanner s = new Scanner(System.in);
         String word = s.nextLine();

@@ -1,11 +1,10 @@
 import java.util.Scanner;
 
-public class A2028 {
+public class A1022 {
     public static void main(String[] args) {
-        //input  (0 ~ 4294967295)
         Scanner scanner = new Scanner(System.in);
-        Long num = scanner.nextLong();
+        String str =scanner.nextLine();
 
-        System.out.println(num);
+        System.out.println(str);
     }
 }
