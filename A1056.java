@@ -11,5 +11,6 @@ public class A1056{
         }else{
             System.out.print("0");
         }
+        s.close();
     }
 }
