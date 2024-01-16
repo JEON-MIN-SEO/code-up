@@ -15,3 +15,4 @@ public class A1058 {
         scanner.close();
     }
 }
+//1/16
